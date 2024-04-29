@@ -1,5 +1,3 @@
-/// <reference types="cypress" />
-
 describe('Testing https://gorest.co.in/ API', () => {
 
     let accessToken = '803b28451962a1f65264171a2385d2f37c8090951aaa7608333d1dbc2e0866c1'
